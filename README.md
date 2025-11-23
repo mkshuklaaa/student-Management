@@ -69,3 +69,11 @@ student_project/
 │
 └── manage.py
 ```
+## 📸 Screenshot
+
+Below is how the Student Management System looks:
+
+![Student Management UI](assets/screenshot.png)
+
+
+
