@@ -51,6 +51,7 @@ http://127.0.0.1:8000/
 
 # 📁 Project Structure
 
+'''
 student_project/
 │
 ├── students/
@@ -67,3 +68,4 @@ student_project/
 │   └── urls.py
 │
 └── manage.py
+'''
