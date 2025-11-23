@@ -52,20 +52,20 @@ http://127.0.0.1:8000/
 # 📁 Project Structure
 
 ```
-  student_project/
-  │
-  ├── students/
-  │   ├── models.py
-  │   ├── views.py
-  │   ├── forms.py
-  │   └── templates/
-  │       ├── home.html
-  │       ├── add.html
-  │       └── edit.html
-  │
-  ├── student_project/
-  │   ├── settings.py
-  │   └── urls.py
-  │
-  └── manage.py
+student_project/
+│
+├── students/
+│   ├── models.py
+│   ├── views.py
+│   ├── forms.py
+│   └── templates/
+│       ├── home.html
+│       ├── add.html
+│       └── edit.html
+│
+├── student_project/
+│   ├── settings.py
+│   └── urls.py
+│
+└── manage.py
 ```
