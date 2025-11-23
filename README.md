@@ -73,7 +73,7 @@ student_project/
 
 Below is how the Student Management System looks:
 
-![Student Management UI](assets/screenshot.png)
+![Student Management UI](assets/Screenshot.png)
 
 
 
